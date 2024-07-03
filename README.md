@@ -5,13 +5,13 @@
 ---
 <div align="center">
 
-## Usefulness:
+## 🚀Usefulness:
 
 </div>
 
-- **1:** Be less stupid
-- **2:** Funny stuff
-- **3:** If you're not happy, remember that your mother didn't develop it for me.
+- **1:** Be less stupid 🎉
+- **2:** Funny stuff ✅
+- **3:** If you're not happy, remember that your mother didn't develop it for me. 🎀
 
 ---
 <div align="center">
