@@ -5,7 +5,7 @@ int main()
 	int a = 0;
 	int b = 0;
 
-	std::cout << "Entrer votre calcul : ";
+	std::cout << "Entrez votre calcul : ";
 	std::cin >> a >> b;
 	std::cin.ignore();
 
